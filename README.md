@@ -18,5 +18,4 @@ MySQL
 PostgreSQL
 Docker: Creación de entornos de desarrollo aislados.
 Automatización de procesos: Herramientas como Ansible o Terraform.
-Seguridad informática: Conceptos básicos sobre ciberseguridad y gestión de jajaja 
-eres una pirbull key
+Seguridad informática: Conceptos básicos sobre ciberseguridad y gestión
